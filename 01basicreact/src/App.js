@@ -1,7 +1,12 @@
- 
+import Unique from "./Unique"
+
 function App() {
   return (
-    <h1>React course |</h1>
+    <>
+    <Unique />
+     
+    </>
+   
   );
 }
 

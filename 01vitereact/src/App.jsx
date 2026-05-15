@@ -1,8 +1,11 @@
+import Unique from "./unique"
 function App() {
   
-
   return (
-    <h1>React with vite |  DS</h1>
+    <>
+    <Unique />
+     
+    </>
   )
 }
 
