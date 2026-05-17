@@ -1,4 +1,4 @@
-import Unique from "./unique"
+import Unique from "./Unique"
 function App() {
   
   return (
@@ -10,3 +10,4 @@ function App() {
 }
 
 export default App
+//built-in properties that belong on the element    type,key,refs,props
